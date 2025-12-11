@@ -6,6 +6,8 @@ Die Studie stellt einen hybriden Analyseansatz vor, der word-embedding-gestützt
 
 Projekt-Website: https://zeta-project.eu/de/
 
+Konferenz-Website:https://dhd2026.digitalhumanities.de
+
 <p align="right">
   <img src="https://dhd2026.digitalhumanities.de/wp-content/uploads/2025/11/cropped-small-website-Icon-scaled-1-192x192.png" width="50">
 </p>
