@@ -1,0 +1,11 @@
+LLR_value	p_value	topic_words	interpretable_JR	interpretable_ER	interpretable_MR
+3,26547E+14	5,43057E-59	['calife', 'tèmudjin', 'maître', 'abassa', 'djamouqa', 'qasar', 'toghril', 'palais', 'kèrèit', 'merkit']	no	no	no
+2,65776E+15	9,4502E-45	['pouvais', 'sentais', 'savais', 'mère', 'porte', 'temps', 'chose', 'voyais', 'père', 'corps']	yes	yes	yes
+1,85427E+16	3,16623E-27	['rhada', 'prisko', 'djinnih', 'soldat', 'nomade', 'tribu', 'camions', 'yané', 'boïdus', 'nomades']	yes	no	yes
+1,42919E+15	6,12337E-18	['planète', 'espace', 'cemp', 'terre', 'planètes', 'beyle', 'silkies', 'vaisseau', 'système', 'orbite']	no	yes	no
+1,38434E+16	5,85591E-17	['bataillon', 'biên', 'diên biên', 'diên', 'viets', 'parachutistes', 'compagnie', 'lieutenant', 'légionnaires', 'pc']	yes	no	yes
+1,31322E+15	2,10528E-14	['allemands', 'français', 'russes', 'armée', 'française', 'général', 'allemand', 'lacenaire', 'révolution', 'ministre']	yes	no	yes
+1,20104E+16	6,00372E-13	['livre', 'livres', 'littérature', 'auteur', 'écrire', 'écrivain', 'œuvre', 'écrit', 'lecteur', 'lire']	yes	yes	no
+9,42572E+15	2,77078E-08	['étrangleur', 'morganna', 'cass', 'kantana', 'devane', 'yassif', 'pygmées', 'brauxton', 'lieutenant', 'femme']	no	no	no
+7,02235E+14	0,052952234	['brumbaugh', 'bétail', 'ranch', 'seccombe', 'venneford', 'betteraves', 'centennial', 'éleveurs', 'terre', 'skimmerhorn']	no	no	yes
+6,66624E+13	0,322230479	['camier', 'parapluie', 'camier veux', 'camier camier', 'hélène', 'loin camier', 'omni', 'conaire', 'camier faut', 'agent']	no	no	no

@@ -1,0 +1,11 @@
+topic_no	topic_zeta	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+0	5,84E+15	['pouvais', 'sentais', 'savais', 'mère', 'porte', 'temps', 'chose', 'voyais', 'père', 'corps']	yes	yes	yes
+20	1,99E+16	['allemands', 'français', 'russes', 'armée', 'française', 'général', 'allemand', 'lacenaire', 'révolution', 'ministre']	no	yes	yes
+12	1,83E+16	['livre', 'livres', 'littérature', 'auteur', 'écrire', 'écrivain', 'œuvre', 'écrit', 'lecteur', 'lire']	no	yes	no
+2	1,76E+16	['dis', 'pouvais', 'chose', 'savais', 'yeux', 'mère', 'voulais', 'tête', 'envie', 'voir']	yes	yes	yes
+17	1,69E+16	['calife', 'tèmudjin', 'maître', 'abassa', 'djamouqa', 'qasar', 'toghril', 'palais', 'kèrèit', 'merkit']	no	no	no
+18	1,09E+16	['bataillon', 'biên', 'diên biên', 'diên', 'viets', 'parachutistes', 'compagnie', 'lieutenant', 'légionnaires', 'pc']	yes	yes	yes
+16	1,03E+15	['arbres', 'arbre', 'forêt', 'fleurs', 'feuilles', 'branches', 'plantes', 'terre', 'racines', 'champignons']	no	no	no
+26	1,01E+16	['train', 'gare', 'voyageurs', 'métro', 'quai', 'wagons', 'wagon', 'station', 'trains', 'compartiment']	no	yes	yes
+23	9,30E+14	['jésus', 'objets objets', 'seigneur', 'dieux', 'kernik', 'père', 'jérusalem', 'maligou', 'objets', 'prêtre']	no	yes	yes
+31	8,18E+15	['brumbaugh', 'bétail', 'ranch', 'seccombe', 'venneford', 'betteraves', 'centennial', 'éleveurs', 'terre', 'skimmerhorn']	no	no	yes

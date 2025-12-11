@@ -1,0 +1,11 @@
+topic_no	topic_zeta	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+28	2,20E+16	['commissaire', 'dancourt', 'inspecteur', 'police', 'fassio', 'policier', 'enquête', 'boulle', 'dab', 'shérif']	yes	yes	yes
+11	2,03E+15	['cigarette', 'cigarettes', 'fumée', 'tabac', 'paquet', 'fume', 'fumer', 'alluma', 'dis', 'cigare']	yes	no	yes
+9	1,80E+16	['voiture', 'route', 'chauffeur', 'camion', 'volant', 'voitures', 'véhicule', 'conducteur', 'arrière', 'portière']	no	yes	yes
+4	1,68E+16	['docteur', 'médecin', 'dr', 'infirmière', 'clinique', 'régine', 'malade', 'hôpital', 'lherbier', 'médecins']	no	yes	yes
+13	1,40E+16	['bureau', 'police', 'femme', 'heures', 'porte', 'commissaire', 'téléphone', 'demanda', 'secrétaire', 'lettre']	yes	yes	yes
+53	1,30E+16	['meurtre', 'assassin', 'dover bowers', 'bowers', 'meurtrier', 'dover', 'crime', 'thayer', 'criminel', 'baumann']	yes	yes	yes
+34	1,10E+16	['avocat', 'procès', 'jurés', 'tribunal', 'président', 'magistrat', 'affaire', 'audience', 'step', 'témoin']	yes	yes	yes
+37	9,85E+13	['clément', 'bejardy', 'sécateur', 'brossier', 'pouchet', 'type', 'tchik', 'vandoosler', 'vauquer', 'bonnot']	yes	yes	yes
+6	7,83E+15	['chiens', 'kehlweiler', 'akrèn', 'animal', 'porte', 'tête', 'bête', 'sukie', 'yeux', 'dogtinder']	yes	no	no
+10	7,26E+15	['murs', 'château', 'fenêtres', 'mur', 'étage', 'porte', 'maison', 'rue', 'entrée', 'maisons']	no	yes	yes

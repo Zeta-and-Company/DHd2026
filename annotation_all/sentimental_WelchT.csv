@@ -1,0 +1,11 @@
+t_value	p_value	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+4,91095E+15	21879445824	['baiser', 'lèvres', 'embrasser', 'murmura', 'bouche', 'étreinte', 'désir', 'corps', 'qaasi', 'embrassa']	yes	yes	yes
+3,87398E+15	1,50859E+15	['mariage', 'épouser', 'femme', 'divorce', 'veux', 'enfants', 'mariés', 'besoin', 'épouse', 'mieux']	yes	yes	yes
+3,76561E+16	2,2662E+14	['chambre', 'marylène', 'porte', 'joëlle', 'nuit', 'cuisine', 'sommeil', 'réveilla', 'bruit', 'ouvrit']	no	yes	yes
+3,52905E+15	5,34398E+15	['beeding', 'répondit', 'sûre', 'répliqua', 'robe', 'femme', 'mère', 'kellogg', 'dîner', 'hôtesse']	no	yes	yes
+2,98973E+16	3,07154E+16	['whitewell', 'mariage', 'corla', 'métilde', 'novinha', 'femme', 'lettre', 'cholen', 'allait', 'aimait']	yes	yes	yes
+2,91741E+16	3,93792E+15	['bureau', 'police', 'femme', 'heures', 'porte', 'commissaire', 'téléphone', 'demanda', 'secrétaire', 'lettre']	no	no	no
+2,85646E+15	4,75073E+15	['aimer', 'frédi', 'fouldroule', 'veux', 'amoureuse', 'dis', 'vivre', 'sentiments', 'tooley', 'cœur']	yes	yes	yes
+2,85034E+16	4,88508E+15	['porte', 'escalier', 'chambre', 'ouvrit', 'murdoch', 'skidmore', 'étage', 'aimée', 'femme', 'cuisine']	yes	yes	no
+2,81903E+15	5,43838E+15	['sœur', 'carista', 'cousin', 'cousin dunkam', 'tante', 'bague', 'tante père', 'enquêteurs privés', 'genre discussion', 'cashmere']	no	yes	yes
+2,57251E+15	1,09403E+16	['natchez', 'pr hyssop', 'hyssop', 'edmonds', 'boire', 'bouteille', 'garrison', 'pr', 'penthotal', 'verre']	no	no	no

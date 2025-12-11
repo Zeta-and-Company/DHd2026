@@ -1,0 +1,11 @@
+t_value	p_value	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+7,00087E+15	53404,95808	['corps', 'yeux', 'visage', 'mains', 'tête', 'coup', 'jambes', 'fit', 'gauche', 'cheveux']	no	no	no
+5,95529E+15	177570336,8	['planète', 'espace', 'cemp', 'terre', 'planètes', 'beyle', 'silkies', 'vaisseau', 'système', 'orbite']	yes	yes	yes
+4,62038E+15	7042791047	['bateau', 'eau', 'navire', 'pont', 'poissons', 'vent', 'sable', 'bord', 'vagues', 'coque']	no	yes	no
+4,47488E+15	1,41711E+11	['cerveau', 'cerveaux', 'système', 'transplantation', 'intelligence', 'organique', 'synapses', 'anticorps', 'cellules', 'organes']	yes	yes	yes
+4,35973E+15	2,37511E+11	['link', 'ballon', 'touré', 'barge', 'corson', 'espace', 'étoiles', 'delten', 'cylindre', 'dimension']	yes	yes	yes
+4,32354E+16	2,57511E+11	['hallingkar', 'poona', 'pd', 'daïren', 'mmi', 'uelil', 'félicien', 'planteur', 'jumbo', 'œufs œufs']	no	no	no
+4,24012E+15	3,46206E+11	['mort', 'humains', 'âme', 'faut', 'vivre', 'chose', 'humanité', 'science', 'êtres', 'société']	no	yes	yes
+4,09848E+15	66734079647	['éditions', 'igr 10', 'igr', 'fiction', 'inédit', 'science fiction', 'marabout', '10', 'traduction française', 'collection']	yes	no	no
+4,08875E+16	70355037477	['planètes', 'étoiles', 'inédit', 'planète', 'étoile', 'galaxie', 'terre', 'guérin', 'années lumière', 'seigneur kampaku']	yes	yes	yes
+3,71728E+16	2,78928E+15	['seagull', 'moonbird', 'oiseau', 'ailes', 'skiz', 'birdlip', 'oiseaux', 'baccarat', 'dragon', 'insecte']	no	yes	no

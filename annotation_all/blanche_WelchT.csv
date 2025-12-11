@@ -1,0 +1,11 @@
+t_value	p_value	topic_words	interpretable_JR	interpretable_ER	interpretable_MR
+4,54031E+15	1,02111E+11	['pouvais', 'sentais', 'savais', 'mère', 'porte', 'temps', 'chose', 'voyais', 'père', 'corps']	yes	yes	yes
+4,26267E+15	3,2797E+11	['train', 'gare', 'voyageurs', 'métro', 'quai', 'wagons', 'wagon', 'station', 'trains', 'compartiment']	no	yes	yes
+4,15748E+14	5,27685E+11	['allemands', 'français', 'russes', 'armée', 'française', 'général', 'allemand', 'lacenaire', 'révolution', 'ministre']	yes	yes	yes
+3,73119E+16	2,66785E+16	['livre', 'livres', 'littérature', 'auteur', 'écrire', 'écrivain', 'œuvre', 'écrit', 'lecteur', 'lire']	yes	yes	no
+3,296E+15	1,14128E+16	['dis', 'pouvais', 'chose', 'savais', 'yeux', 'mère', 'voulais', 'tête', 'envie', 'voir']	yes	yes	yes
+3,09796E+16	2,28734E+16	['étang', 'sills', '80 100', 'mots croisés', 'ans', 'irthia', 'enfermé', 'deucalio', 'mue', 'wishman']	no	no	no
+3,03223E+15	2,85138E+15	['rue', 'ansart', 'boulevard', 'café', 'hôtel', 'soir', 'himes', 'quartier', 'tournon', 'restaurant']	no	yes	yes
+2,90348E+15	4,15283E+15	['jésus', 'objets objets', 'seigneur', 'dieux', 'kernik', 'père', 'jérusalem', 'maligou', 'objets', 'prêtre']	no	yes	yes
+2,8163E+15	5,46072E+15	['hulann', 'kanin', 'corps', 'construct', 'fouldroule', 'couleur', 'poils', 'calligraphe', 'yeux', 'stratten']	no	no	no
+2,81148E+15	5,55412E+15	['arbres', 'arbre', 'forêt', 'fleurs', 'feuilles', 'branches', 'plantes', 'terre', 'racines', 'champignons']	no	no	no

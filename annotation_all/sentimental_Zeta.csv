@@ -1,0 +1,11 @@
+topic_no	topic_zeta	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+1	2,60E+13	['jirel', 'yeux', 'visage', 'corps', 'lumière', 'eau', 'cheveux', 'femme', 'tête', 'jambes']	yes	yes	yes
+14	2,05E+16	['mariage', 'épouser', 'femme', 'divorce', 'veux', 'enfants', 'mariés', 'besoin', 'épouse', 'mieux']	yes	yes	yes
+8	1,62E+16	['mère', 'savait', 'père', 'ans', 'femme', 'aimait', 'jour', 'voulait', 'faisait', 'enfants']	yes	yes	yes
+13	1,35E+16	['bureau', 'police', 'femme', 'heures', 'porte', 'commissaire', 'téléphone', 'demanda', 'secrétaire', 'lettre']	no	no	no
+27	1,18E+16	['étrangleur', 'morganna', 'cass', 'kantana', 'devane', 'yassif', 'pygmées', 'brauxton', 'lieutenant', 'femme']	no	no	no
+25	1,13E+16	['tibbie', 'diggan', 'miramonte', 'abuelita', 'soso', 'rawley', 'valoria', 'huff', 'ganaderia', 'mexicain']	no	no	no
+41	1,05E+16	['redcloud', 'jiggs', 'navajo', 'zhdanov', 'mère', 'weaver', 'mister jiggs', 'sourire', 'indienne', 'vieille']	no	no	no
+70	9,73E+15	['baiser', 'lèvres', 'embrasser', 'murmura', 'bouche', 'étreinte', 'désir', 'corps', 'qaasi', 'embrassa']	yes	yes	yes
+4	8,22E+13	['docteur', 'médecin', 'dr', 'infirmière', 'clinique', 'régine', 'malade', 'hôpital', 'lherbier', 'médecins']	yes	yes	yes
+59	8,15E+15	['sénateur', 'larkspur', 'kinkaid', 'khazar', 'chérie', 'mère', 'tchartoff', 'daldrin', 'père', 'garçon']	yes	no	yes

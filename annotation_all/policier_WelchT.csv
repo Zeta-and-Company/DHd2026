@@ -1,0 +1,11 @@
+t_value	p_value	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+4,95843E+15	18540506715	['meurtre', 'assassin', 'dover bowers', 'bowers', 'meurtrier', 'dover', 'crime', 'thayer', 'criminel', 'baumann']	yes	yes	yes
+4,94874E+14	18677810343	['commissaire', 'dancourt', 'inspecteur', 'police', 'fassio', 'policier', 'enquête', 'boulle', 'dab', 'shérif']	yes	yes	yes
+4,67261E+15	5356489393	['cigarette', 'cigarettes', 'fumée', 'tabac', 'paquet', 'fume', 'fumer', 'alluma', 'dis', 'cigare']	yes	no	yes
+4,06964E+16	64855049639	['bureau', 'police', 'femme', 'heures', 'porte', 'commissaire', 'téléphone', 'demanda', 'secrétaire', 'lettre']	yes	yes	yes
+4,04343E+15	71454421932	['voiture', 'route', 'chauffeur', 'camion', 'volant', 'voitures', 'véhicule', 'conducteur', 'arrière', 'portière']	no	yes	yes
+3,41936E+14	7,98069E+15	['librairie champs', 'librairie', 'librairie champs élysées', 'adaptation représentation', 'adaptation représentation réservés', 'reproduction adaptation représentation', 'représentation réservés', 'contrôle cas', 'livre souffre', 'volumes collection']	no	no	no
+3,08786E+16	2,3884E+15	['taplin', 'veysey', 'meurtre', 'siméonidis', 'assassin', 'prétendument', 'raphaël', 'coupable', 'docteur stratton', 'adèle']	yes	yes	yes
+2,87266E+14	4,55224E+15	['avocat', 'procès', 'jurés', 'tribunal', 'président', 'magistrat', 'affaire', 'audience', 'step', 'témoin']	yes	yes	yes
+2,82668E+16	5,24687E+15	['miroul', 'mcfee', 'lestandi', 'bretonnet', 'table', 'rue', 'préjean', 'ouais savait', 'lathrop', 'latin']	no	no	no
+2,81269E+15	5,53538E+14	['crimes', 'meurtre', 'planteguerre', 'rochembert', 'meurtres', 'criminel', 'rampez', 'meurtrier', 'crime', 'quim']	yes	yes	yes

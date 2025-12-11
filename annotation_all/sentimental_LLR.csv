@@ -1,0 +1,11 @@
+LLR_value	p_value	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+2,74995E+14	9,25481E-47	['pouvais', 'sentais', 'savais', 'mère', 'porte', 'temps', 'chose', 'voyais', 'père', 'corps']	no	yes	yes
+2,32589E+16	1,62441E-37	['redcloud', 'jiggs', 'navajo', 'zhdanov', 'mère', 'weaver', 'mister jiggs', 'sourire', 'indienne', 'vieille']	no	yes	no
+2,1178E+16	5,61632E-33	['mcginnis', 'mme', 'shamus', 'femme', 'sénateur', 'prit', 'irlandais', 'mme manchester', 'lança', 'lèvres']	no	yes	yes
+1,83967E+16	6,59609E-28	['morsi', 'viking', 'saunders', 'déclara', 'spécimen', 'drakkar', 'magnusson', 'poitrine', 'tête', 'nei']	no	no	no
+1,81427E+15	2,36456E-26	['chambers', 'scorpion', 'barlow', 'léonid', 'prit', 'désir', 'veux', 'voulut', 'chambre', 'voiture']	yes	yes	yes
+1,79634E+16	5,82421E-26	['tibbie', 'diggan', 'miramonte', 'abuelita', 'soso', 'rawley', 'valoria', 'huff', 'ganaderia', 'mexicain']	no	yes	yes
+1,77548E+16	1,66292E-24	['étrangleur', 'morganna', 'cass', 'kantana', 'devane', 'yassif', 'pygmées', 'brauxton', 'lieutenant', 'femme']	no	no	no
+1,7369E+16	1,15691E-23	['planète', 'espace', 'cemp', 'terre', 'planètes', 'beyle', 'silkies', 'vaisseau', 'système', 'orbite']	no	no	no
+1,72699E+15	1,9041E-23	['rhéa', 'devlin', 'kilconnell', 'bouviers', 'cessna', 'rhéa cormack', 'maclver', 'cormack', 'voulait', 'sébastian']	no	no	no
+1,71701E+15	3,14569E-24	['sénateur', 'larkspur', 'kinkaid', 'khazar', 'chérie', 'mère', 'tchartoff', 'daldrin', 'père', 'garçon']	yes	yes	yes

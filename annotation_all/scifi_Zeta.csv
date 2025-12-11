@@ -1,0 +1,11 @@
+topic_no	topic_zeta	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+7	5,66E+15	['planète', 'espace', 'cemp', 'terre', 'planètes', 'beyle', 'silkies', 'vaisseau', 'système', 'orbite']	yes	yes	yes
+3	4,16E+16	['corps', 'yeux', 'visage', 'mains', 'tête', 'coup', 'jambes', 'fit', 'gauche', 'cheveux']	no	no	no
+5	2,19E+16	['bateau', 'eau', 'navire', 'pont', 'poissons', 'vent', 'sable', 'bord', 'vagues', 'coque']	no	yes	no
+24	1,21E+16	['seagull', 'moonbird', 'oiseau', 'ailes', 'skiz', 'birdlip', 'oiseaux', 'baccarat', 'dragon', 'insecte']	no	yes	no
+30	1,20E+16	['kif', 'pyanfar', 'jik', 'sikkukkut', 'hakkikt', 'mahendo', 'dieux', 'chanur', 'hilfy', 'haral']	no	yes	no
+1	1,14E+16	['jirel', 'yeux', 'visage', 'corps', 'lumière', 'eau', 'cheveux', 'femme', 'tête', 'jambes']	no	no	no
+21	1,12E+15	['mort', 'humains', 'âme', 'faut', 'vivre', 'chose', 'humanité', 'science', 'êtres', 'société']	yes	yes	yes
+85	7,57E+15	['cerveau', 'cerveaux', 'système', 'transplantation', 'intelligence', 'organique', 'synapses', 'anticorps', 'cellules', 'organes']	yes	yes	yes
+56	6,82E+15	['éditions', 'igr 10', 'igr', 'fiction', 'inédit', 'science fiction', 'marabout', '10', 'traduction française', 'collection']	yes	no	no
+77	5,47E+15	['hallingkar', 'poona', 'pd', 'daïren', 'mmi', 'uelil', 'félicien', 'planteur', 'jumbo', 'œufs œufs']	no	no	no

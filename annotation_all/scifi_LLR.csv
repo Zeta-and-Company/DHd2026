@@ -1,0 +1,11 @@
+LLR_value	p_value	topic_words	interpretable_ER	interpretable_JR	interpretable_MR
+8,37939E+15	3,046E-169	['planète', 'espace', 'cemp', 'terre', 'planètes', 'beyle', 'silkies', 'vaisseau', 'système', 'orbite']	yes	yes	yes
+3,00505E+16	2,55648E-51	['kif', 'pyanfar', 'jik', 'sikkukkut', 'hakkikt', 'mahendo', 'dieux', 'chanur', 'hilfy', 'haral']	yes	yes	no
+1,63786E+14	1,6848E-21	['corps', 'yeux', 'visage', 'mains', 'tête', 'coup', 'jambes', 'fit', 'gauche', 'cheveux']	no	yes	no
+1,26795E+16	2,05938E-13	['manilo', 'corrio', 'viételli', 'hanse', 'ommach', 'desprats', 'halter', 'cité', 'ostrer', 'regarde']	no	yes	no
+1,08396E+16	2,20119E-10	['krug', 'watchman', 'krug krug', 'spaulding', 'androïdes', 'vargas', 'transmat', 'alphas', 'androïde', 'cuve']	yes	yes	yes
+1,07391E+16	3,6552E-10	['ingold', 'lohiro', 'sorcier', 'ténébreux', 'archimage', 'quo', 'bâton', 'vieil', 'lngold', 'sorciers']	no	no	no
+9,66938E+15	8,09206E-08	['étrangleur', 'morganna', 'cass', 'kantana', 'devane', 'yassif', 'pygmées', 'brauxton', 'lieutenant', 'femme']	yes	yes	no
+8,97432E+14	2,71166E-06	['bateau', 'eau', 'navire', 'pont', 'poissons', 'vent', 'sable', 'bord', 'vagues', 'coque']	no	yes	no
+7,75258E+15	0,013099853	['calife', 'tèmudjin', 'maître', 'abassa', 'djamouqa', 'qasar', 'toghril', 'palais', 'kèrèit', 'merkit']	no	yes	no
+7,36254E+15	0,009444256	['tibbie', 'diggan', 'miramonte', 'abuelita', 'soso', 'rawley', 'valoria', 'huff', 'ganaderia', 'mexicain']	no	yes	no

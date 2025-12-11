@@ -1,0 +1,11 @@
+LLR_value	p_value		interpretable_JR	interpretable_ER	interpretable_MR
+1,99995E+16	2,09403E-29	['planète', 'espace', 'cemp', 'terre', 'planètes', 'beyle', 'silkies', 'vaisseau', 'système', 'orbite']	yes	no	no
+1,90129E+15	2,97958E-28	['commissaire', 'dancourt', 'inspecteur', 'police', 'fassio', 'policier', 'enquête', 'boulle', 'dab', 'shérif']	yes	yes	yes
+1,83597E+16	7,94405E-27	['yudel', 'weizmann', 'majola', 'thandi', 'boutique', 'nieuwenhuysen', 'hymie', 'muntu', 'yudel savait', 'johannesburg']	no	no	no
+1,50666E+15	1,23993E-18	['finch', 'quince', 'tibbett', 'goodman', 'smeed', 'macey', 'hamstone', 'inspecteur', 'bingham', 'commissaire']	yes	no	yes
+1,15942E+16	4,89484E-12	['meurtre', 'assassin', 'dover bowers', 'bowers', 'meurtrier', 'dover', 'crime', 'thayer', 'criminel', 'baumann']	yes	yes	yes
+1,08458E+16	2,13272E-10	['byram', 'accident', 'police', 'suicide', 'suicidée', 'affee', 'whitcomb', 'enquête', 'conduisait', 'amersham']	yes	yes	yes
+9,88741E+15	2,69075E-09	['clément', 'bejardy', 'sécateur', 'brossier', 'pouchet', 'type', 'tchik', 'vandoosler', 'vauquer', 'bonnot']	yes	yes	no
+8,5008E+15	2,97161E-05	['manson', 'piggot', 'betts', 'babcock', 'beckford', 'broadwaters', 'sills', 'véranda', 'phosphore', 'docteur']	no	yes	no
+8,24959E+15	0,001058916	['knudsen', 'quade', 'thayer', 'boland', 'silverdale', 'patients', 'chantier naval', 'naval', 'psychologue', 'demanda']	no	yes	no
+7,58503E+14	0,003060098	['bataillon', 'biên', 'diên biên', 'diên', 'viets', 'parachutistes', 'compagnie', 'lieutenant', 'légionnaires', 'pc']	no	no	no
